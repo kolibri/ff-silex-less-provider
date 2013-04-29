@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.3.0",
         "silex/silex": "1.0.*",
-        "leafo/lessphp": "dev-master"
+        "leafo/lessphp": "*"
     },
     "autoload": {
         "psr-0": {
